@@ -19,7 +19,7 @@ public interface ProductInfoService {
     ProductInfo save(ProductInfo productInfo);
 
     //加库存
-
+    String s="";
     //减库存
 
 }
